@@ -1,5 +1,4 @@
 package android.arch.core.executor;
-pene gordo
 import android.os.Handler;
 import android.os.Looper;
 import android.support.annotation.Nullable;
